@@ -1,5 +1,5 @@
 keras_nightly==2.5.0.dev2021032900
-opencv_python==4.4.0.42
+opencv_python
 Flask==0.12.2
 numpy==1.21.2
 keras==2.6.0
