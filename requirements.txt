@@ -3,4 +3,4 @@ opencv_python
 Flask==0.12.2
 numpy==1.21.2
 keras==2.6.0
-gunicorn
+gunicorn==19.9.0
